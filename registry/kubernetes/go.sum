@@ -1,11 +1,13 @@
+github.com/chunyu224/kratos-bootstrap/api v1.0.0 h1:Kv8H47LjgTOEIqElKA1x6RRHO+g3/OJnlR/YtujW9s8=
+github.com/chunyu224/kratos-bootstrap/api v1.0.0/go.mod h1:R3S7zh7FeQQ+VwsBsYUTw4eb2dXDRFRnylRBGmOUd1w=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/emicklei/go-restful/v3 v3.11.0 h1:rAQeMHw1c7zTmncogyy8VvRZwtkmkZ4FxERmMY4rD+g=
 github.com/emicklei/go-restful/v3 v3.11.0/go.mod h1:6n3XBCmQQb25CM2LCACGz8ukIrRry+4bhvbpWn3mrbc=
-github.com/go-kratos/kratos/contrib/registry/kubernetes/v2 v2.0.0-20240516020449-fbac5fa25e7a h1:o1a85FMSoek81AimDVHQOF6Iz2JkJFWRAH+8ivjEbn0=
-github.com/go-kratos/kratos/contrib/registry/kubernetes/v2 v2.0.0-20240516020449-fbac5fa25e7a/go.mod h1:K5CExoUHGwVmQLkQjCdQ3AvsDeaP/L5OXBu+9zxv5GE=
+github.com/go-kratos/kratos/contrib/registry/kubernetes/v2 v2.0.0-20240601080717-c0a7935bb120 h1:Ec3e4Z9h8Hgo8Fq6KOj3Q7RZkF3WPQaSSYspd4cEdv0=
+github.com/go-kratos/kratos/contrib/registry/kubernetes/v2 v2.0.0-20240601080717-c0a7935bb120/go.mod h1:K5CExoUHGwVmQLkQjCdQ3AvsDeaP/L5OXBu+9zxv5GE=
 github.com/go-kratos/kratos/v2 v2.7.3 h1:T9MS69qk4/HkVUuHw5GS9PDVnOfzn+kxyF0CL5StqxA=
 github.com/go-kratos/kratos/v2 v2.7.3/go.mod h1:CQZ7V0qyVPwrotIpS5VNNUJNzEbcyRUl5pRtxLOIvn4=
 github.com/go-logr/logr v1.4.1 h1:pKouT5E8xu9zeFC39JXRDukb6JFQPXM5p5I91188VAQ=

@@ -1,3 +1,5 @@
+github.com/chunyu224/kratos-bootstrap/api v1.0.0 h1:Kv8H47LjgTOEIqElKA1x6RRHO+g3/OJnlR/YtujW9s8=
+github.com/chunyu224/kratos-bootstrap/api v1.0.0/go.mod h1:R3S7zh7FeQQ+VwsBsYUTw4eb2dXDRFRnylRBGmOUd1w=
 github.com/coreos/go-semver v0.3.0 h1:wkHLiw0WNATZnSG7epLsujiMCgPAc9xhjJ4tgnAxmfM=
 github.com/coreos/go-semver v0.3.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
 github.com/coreos/go-systemd/v22 v22.3.2 h1:D9/bQk5vlXQFZ6Kwuu6zaiXJ9oTPe68++AzAJc1DzSI=
@@ -5,8 +7,8 @@ github.com/coreos/go-systemd/v22 v22.3.2/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSV
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240516020449-fbac5fa25e7a h1:S+WJ+xRfw2RRAjLOhFUBKzWNANhMWhwE1rPxOwkygYw=
-github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240516020449-fbac5fa25e7a/go.mod h1:PKdO1GipQ7Rj+Jn9HERmdYNy8Cdi+nw6qnkdBwM7a5o=
+github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240601080717-c0a7935bb120 h1:aJpkk2Y226rlcbEF3Op4VPldOPdGzM5ueduG6MF4DSg=
+github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240601080717-c0a7935bb120/go.mod h1:PKdO1GipQ7Rj+Jn9HERmdYNy8Cdi+nw6qnkdBwM7a5o=
 github.com/go-kratos/kratos/v2 v2.7.3 h1:T9MS69qk4/HkVUuHw5GS9PDVnOfzn+kxyF0CL5StqxA=
 github.com/go-kratos/kratos/v2 v2.7.3/go.mod h1:CQZ7V0qyVPwrotIpS5VNNUJNzEbcyRUl5pRtxLOIvn4=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=

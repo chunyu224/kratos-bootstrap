@@ -1,9 +1,11 @@
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 h1:DDGfHa7BWjL4YnC6+E63dPcxHo2sUxDIu8g3QgEJdRY=
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
+github.com/chunyu224/kratos-bootstrap/api v1.0.0 h1:Kv8H47LjgTOEIqElKA1x6RRHO+g3/OJnlR/YtujW9s8=
+github.com/chunyu224/kratos-bootstrap/api v1.0.0/go.mod h1:R3S7zh7FeQQ+VwsBsYUTw4eb2dXDRFRnylRBGmOUd1w=
 github.com/fluent/fluent-logger-golang v1.9.0 h1:zUdY44CHX2oIUc7VTNZc+4m+ORuO/mldQDA7czhWXEg=
 github.com/fluent/fluent-logger-golang v1.9.0/go.mod h1:2/HCT/jTy78yGyeNGQLGQsjF3zzzAuy6Xlk6FCMV5eU=
-github.com/go-kratos/kratos/contrib/log/fluent/v2 v2.0.0-20240601080717-c0a7935bb120 h1:n3YVjp+beOeF3Qae7Na6M8xkizurVS9wJtIzFnKtMeU=
-github.com/go-kratos/kratos/contrib/log/fluent/v2 v2.0.0-20240601080717-c0a7935bb120/go.mod h1:Xhs7Y6EOXoEmweolaQ3JEztf/HHBA1QNy41Ym+VUJP0=
+github.com/go-kratos/kratos/contrib/log/fluent/v2 v2.0.0-20240516020449-fbac5fa25e7a h1:jDdWUJverbtF/FJtiYiDxB+WNp2vKXNUgu+q4UKtwok=
+github.com/go-kratos/kratos/contrib/log/fluent/v2 v2.0.0-20240516020449-fbac5fa25e7a/go.mod h1:Xhs7Y6EOXoEmweolaQ3JEztf/HHBA1QNy41Ym+VUJP0=
 github.com/go-kratos/kratos/v2 v2.7.3 h1:T9MS69qk4/HkVUuHw5GS9PDVnOfzn+kxyF0CL5StqxA=
 github.com/go-kratos/kratos/v2 v2.7.3/go.mod h1:CQZ7V0qyVPwrotIpS5VNNUJNzEbcyRUl5pRtxLOIvn4=
 github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=

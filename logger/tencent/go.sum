@@ -1,11 +1,13 @@
+github.com/chunyu224/kratos-bootstrap/api v1.0.0 h1:Kv8H47LjgTOEIqElKA1x6RRHO+g3/OJnlR/YtujW9s8=
+github.com/chunyu224/kratos-bootstrap/api v1.0.0/go.mod h1:R3S7zh7FeQQ+VwsBsYUTw4eb2dXDRFRnylRBGmOUd1w=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/frankban/quicktest v1.14.0 h1:+cqqvzZV87b4adx/5ayVOaYZ2CrvM4ejQvUdBzPPUss=
 github.com/frankban/quicktest v1.14.0/go.mod h1:NeW+ay9A/U67EYXNFA1nPE8e/tnQv/09mUdL/ijj8og=
-github.com/go-kratos/kratos/contrib/log/tencent/v2 v2.0.0-20240516020449-fbac5fa25e7a h1:EDIjIb1ba0XweMLSVQCxnJXqEuNLpTTVUbvoYFf8PYo=
-github.com/go-kratos/kratos/contrib/log/tencent/v2 v2.0.0-20240516020449-fbac5fa25e7a/go.mod h1:myjSkrpruDTO+b7KZ31mZkYsLusjlnDNQhuQ52T1kUY=
+github.com/go-kratos/kratos/contrib/log/tencent/v2 v2.0.0-20240601080717-c0a7935bb120 h1:Y7KCtS0e2B6CIZ0X2D0aQlkPlAUR9bVgPD6lx1OuuWQ=
+github.com/go-kratos/kratos/contrib/log/tencent/v2 v2.0.0-20240601080717-c0a7935bb120/go.mod h1:myjSkrpruDTO+b7KZ31mZkYsLusjlnDNQhuQ52T1kUY=
 github.com/go-kratos/kratos/v2 v2.7.3 h1:T9MS69qk4/HkVUuHw5GS9PDVnOfzn+kxyF0CL5StqxA=
 github.com/go-kratos/kratos/v2 v2.7.3/go.mod h1:CQZ7V0qyVPwrotIpS5VNNUJNzEbcyRUl5pRtxLOIvn4=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=

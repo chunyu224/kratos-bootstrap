@@ -2,11 +2,9 @@ module github.com/chunyu224/kratos-bootstrap/config/etcd
 
 go 1.22.3
 
-replace github.com/chunyu224/kratos-bootstrap/api => ../../api
-
 require (
-	github.com/chunyu224/kratos-bootstrap/api v0.0.0-00010101000000-000000000000
-	github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240516020449-fbac5fa25e7a
+	github.com/chunyu224/kratos-bootstrap/api v1.0.0
+	github.com/go-kratos/kratos/contrib/config/etcd/v2 v2.0.0-20240601080717-c0a7935bb120
 	github.com/go-kratos/kratos/v2 v2.7.3
 	go.etcd.io/etcd/client/v3 v3.5.14
 	google.golang.org/grpc v1.64.0

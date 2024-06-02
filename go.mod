@@ -2,67 +2,25 @@ module github.com/chunyu224/kratos-bootstrap
 
 go 1.22.3
 
-replace github.com/chunyu224/kratos-bootstrap/api => ./api
-
-replace github.com/chunyu224/kratos-bootstrap/config/apollo => ./config/apollo
-
-replace github.com/chunyu224/kratos-bootstrap/config/etcd => ./config/etcd
-
-replace github.com/chunyu224/kratos-bootstrap/config/consul => ./config/consul
-
-replace github.com/chunyu224/kratos-bootstrap/config/kubernetes => ./config/kubernetes
-
-replace github.com/chunyu224/kratos-bootstrap/config/nacos => ./config/nacos
-
-replace github.com/chunyu224/kratos-bootstrap/config/polaris => ./config/polaris
-
-replace github.com/chunyu224/kratos-bootstrap/logger/aliyun => ./logger/aliyun
-
-replace github.com/chunyu224/kratos-bootstrap/logger/fluent => ./logger/fluent
-
-replace github.com/chunyu224/kratos-bootstrap/logger/logrus => ./logger/logrus
-
-replace github.com/chunyu224/kratos-bootstrap/logger/tencent => ./logger/tencent
-
-replace github.com/chunyu224/kratos-bootstrap/logger/zap => ./logger/zap
-
-replace github.com/chunyu224/kratos-bootstrap/oss/minio => ./oss/minio
-
-replace github.com/chunyu224/kratos-bootstrap/registry/consul => ./registry/consul
-
-replace github.com/chunyu224/kratos-bootstrap/registry/etcd => ./registry/etcd
-
-replace github.com/chunyu224/kratos-bootstrap/registry/eureka => ./registry/eureka
-
-replace github.com/chunyu224/kratos-bootstrap/registry/kubernetes => ./registry/kubernetes
-
-replace github.com/chunyu224/kratos-bootstrap/registry/nacos => ./registry/nacos
-
-replace github.com/chunyu224/kratos-bootstrap/registry/polaris => ./registry/polaris
-
-replace github.com/chunyu224/kratos-bootstrap/registry/servicecomb => ./registry/servicecomb
-
-replace github.com/chunyu224/kratos-bootstrap/registry/zookeeper => ./registry/zookeeper
-
 require (
-	github.com/chunyu224/kratos-bootstrap/api v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/apollo v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/consul v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/etcd v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/kubernetes v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/nacos v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/config/polaris v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/logger/fluent v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/logger/logrus v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/logger/tencent v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/logger/zap v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/consul v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/etcd v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/eureka v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/kubernetes v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/nacos v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/servicecomb v0.0.0-00010101000000-000000000000
-	github.com/chunyu224/kratos-bootstrap/registry/zookeeper v0.0.0-00010101000000-000000000000
+	github.com/chunyu224/kratos-bootstrap/api v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/apollo v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/consul v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/etcd v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/kubernetes v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/nacos v1.0.0
+	github.com/chunyu224/kratos-bootstrap/config/polaris v1.0.0
+	github.com/chunyu224/kratos-bootstrap/logger/fluent v1.0.0
+	github.com/chunyu224/kratos-bootstrap/logger/logrus v1.0.0
+	github.com/chunyu224/kratos-bootstrap/logger/tencent v1.0.0
+	github.com/chunyu224/kratos-bootstrap/logger/zap v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/consul v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/etcd v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/eureka v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/kubernetes v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/nacos v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/servicecomb v1.0.0
+	github.com/chunyu224/kratos-bootstrap/registry/zookeeper v1.0.0
 	github.com/go-kratos/aegis v0.2.0
 	github.com/go-kratos/kratos/v2 v2.7.3
 	github.com/google/subcommands v1.2.0

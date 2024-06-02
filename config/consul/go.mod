@@ -2,10 +2,8 @@ module github.com/chunyu224/kratos-bootstrap/config/consul
 
 go 1.22.3
 
-replace github.com/chunyu224/kratos-bootstrap/api => ../../api
-
 require (
-	github.com/chunyu224/kratos-bootstrap/api v0.0.0-00010101000000-000000000000
+	github.com/chunyu224/kratos-bootstrap/api v1.0.0
 	github.com/go-kratos/kratos/v2 v2.7.3
 	github.com/hashicorp/consul/api v1.29.1
 )
